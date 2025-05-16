@@ -1,75 +1,49 @@
-## Hi 👋, Johan coronado
- 
- <br>
- 
- I'm a passionate Full Stack Web Developer with a strong focus on backend development. With over 2 years of experience, I've worked on various projects, from backend systems to full-stack web applications. I have a deep passion for building and consuming APIs, creating efficient and scalable solutions that solve real-world problems. My goal is to constantly learn and improve, especially in technologies like PHP, Laravel, and JavaScript frameworks. Always excited about tackling new challenges and contributing to impactful projects. 👨🏻‍💻
- 
- <br>
- 
- - 🌱 I’m currently learning **about development specifically about python, PHP, Laravel, React*
- 
- - 💬 Ask me about **Web development**
- 
- - 📫 How to reach me: **coronadojohan123@gmail.com or [LinkedIn](www.linkedin.com/in/corodev**
- 
- 
- ## 💻 Tech Preferences
- 
- ### Programming Languages </>
- 
- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
- ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
- 
- 
- ### 🖥️ Back-end Development
- 
- ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
- ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
- 
- ### 📋 Front-end Development
- 
- ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
- ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
- 
- 
- ### 💾 Databases
- 
- ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
- ![MySQL](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=mysql&logoColor=white)
- 
- 
- ### 🔧 Tools & Other Tech 🛡️
- 
- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
- ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=mysql&logoColor=white)
- <!-- ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) -->
- 
- <br>
- <br>
- 
- ## 📲 Contact me:
- 
- <div align="center">
- 
- <a href="mailto:coronadojohan123@gmail.com">
-     <img title="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
- </a>
- 
- <a href="https://www.linkedin.com/in/corodev">
-     <img title="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
- </a>
- 
- </div>
- 
- <br>
- 
- <!-- <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
- 
- ### -->
+# Hi 👋, I'm Johan Coronado
+
+I'm a passionate **Full Stack Web Developer** with a strong focus on backend development. With over **2 years of experience**, I've worked on various projects, from backend systems to full-stack web applications.
+
+I have a deep interest in building and consuming APIs, and I enjoy creating **efficient, scalable solutions** that solve real-world problems. I'm constantly learning and improving, especially in **PHP, Laravel, Python**, and modern JavaScript frameworks like **React**.
+
+---
+
+## 🌱 Currently Learning
+- Advanced development in **Python**, **PHP**, **Laravel**, and **React**
+
+## 💬 Ask Me About
+- Web Development
+- API design
+- Backend Architecture
+
+## 📫 How to Reach Me
+- 📧 Email: coronadojohan123@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/corodev)
+
+---
+
+## 💻 Tech Stack
+
+### 🖥️ Back-end
+- PHP / Laravel  
+- Python  
+- Java  
+- C#
+
+### 🖥️ Front-end
+- React  
+- Angular  
+- Bootstrap  
+
+### 💾 Databases
+- MySQL  
+- PostgreSQL (si lo usas, puedes agregarlo)
+
+### 🔧 Tools & Other
+- Docker  
+- Postman  
+- Git, GitHub, GitLab  
+
+---
+
+## 📲 Let's Connect!
+Feel free to reach out if you want to collaborate or just say hi.
+
